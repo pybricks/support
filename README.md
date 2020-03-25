@@ -1,2 +1,4 @@
-# support
-Pybricks support and general discussion
+# Pybrics support
+[Pybricks support and general discussion](https://github.com/pybricks/support/issues).
+
+
