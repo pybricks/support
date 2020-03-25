@@ -1,6 +1,6 @@
 ---
 name: Cool project
-about: Describe this issue template's purpose here.
+about: Do you have a project you would like to share?
 title: "[Project] "
 labels: cool project, triage
 assignees: ''
