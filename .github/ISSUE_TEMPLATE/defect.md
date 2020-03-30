@@ -3,7 +3,7 @@ name: Defect
 about: Create a bug report to help us improve
 title: "[Bug]"
 labels: triage
-assignees: dlech
+assignees: 
 
 ---
 
