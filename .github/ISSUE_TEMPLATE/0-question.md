@@ -1,7 +1,7 @@
 ---
 name: Question
 about: Ask a question or request technical support
-title: "[Question]"
+title: "[Question] "
 labels: question, triage
 assignees: ''
 

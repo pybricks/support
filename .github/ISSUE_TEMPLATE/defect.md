@@ -1,7 +1,7 @@
 ---
 name: Defect
 about: Create a bug report to help us improve
-title: "[Bug]"
+title: "[Bug] "
 labels: triage
 assignees: 
 
