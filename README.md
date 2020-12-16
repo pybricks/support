@@ -2,14 +2,18 @@
 
 If you are looking for help with anything Pybricks, you are in the right place.
 
-Click the link below for the issue tracker. Use this to report bugs, request features or ask for help.
+Click the link below for the discussion group. Use this to share your project, request features or ask for help.
 
-**:arrow_right: [Pybricks support and general discussion](https://github.com/pybricks/support/issues) :arrow_left:**
-
+**:arrow_right: [Pybricks support and general discussion](https://github.com/pybricks/support/discussions) :arrow_left:**
 
 If you just want to chat, you can join us on Gitter.
 
 **:arrow_right: [Pybricks community chat](https://gitter.im/pybricks/community) :arrow_left:**
+
+If you think you found a bug, first try searching to see if it has already been reported. If in doubt, just open a new issue.
+
+**:arrow_right: [Pybricks bug tracker](https://github.com/pybricks/support/issues) :arrow_left:**
+
 
 
 # Documentation and Examples
