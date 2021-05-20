@@ -22,4 +22,4 @@ Looking for documentation or example code?
 
 - [Pybricks v2.0 for LEGO MINDSTORMS EV3 documentation](https://pybricks.github.io/ev3-micropython/)
 - [Pybricks v3.0 for Powered Up documentation](https://docs.pybricks.com)
-- [Pybricks example projects](https://github.com/pybricks/pybricks-projects)
+- [Pybricks example projects](https://pybricks.com/projects/)
