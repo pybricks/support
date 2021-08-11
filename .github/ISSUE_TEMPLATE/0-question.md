@@ -1,6 +1,6 @@
 ---
 name: Question
-about: Ask a question or request technical support
+about: Ask a question or request technical support - please consider starting a discussion intead of opening an issue
 title: "[Question] "
 labels: support, triage
 assignees: ''
