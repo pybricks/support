@@ -2,7 +2,7 @@
 name: Documentation
 about: Suggest improvements to the documentation
 title: "[Doc] "
-labels: triage
+labels: documentation, triage
 assignees: 
 
 ---
